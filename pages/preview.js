@@ -19,8 +19,8 @@ export default function Preview({ document }) {
   const router = useRouter()
   const { slug } = router.query
   console.log(document);
-//   const content = document?.Content.replaceAll(/img src="/gi,'img src="http://localhost:8000');
-  const content = document?.Content;
+  const content = document?.Content.replaceAll(/<input type="checkbox" disabled="disabled"/gi,'<input type="checkbox"');
+//   const content = document?.Content;
 
 //   if (!router.isFallback && !post?.slug) {
 //     return <ErrorPage statusCode={404} />
