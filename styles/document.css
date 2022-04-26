@@ -1,0 +1,82 @@
+/* :root {
+    --leftMenuWidth: 19.375rem;
+    --docDescWidth: 20rem;
+    --npBtnColor: #767676;
+  } */
+
+  /* width */
+  /* ::-webkit-scrollbar {
+    width: 8px;
+  } */
+  
+  /* Track */
+  /* ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    transition: all 0.3s ease-in-out;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  } */
+  /* body {
+    width: 100vw !important;
+    overflow-x: hidden;
+    position: relative;
+  } */
+ 
+  /* Media Query */
+  /* @media only screen and (max-width: 1280px) {
+    :root {
+      font-size: 14px;
+    }
+  }
+  @media only screen and (max-width: 1024px) {
+    :root {
+      font-size: 12px;
+    }
+  }
+  @media only screen and (max-width: 912px) {
+    :root {
+      font-size: 10px;
+    }
+    .doc-desc-container {
+      width: 18.5rem;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .scroll-indicator {
+      display: none;
+    }
+    .r-actual-content {
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width: 540px) {
+    :root {
+      font-size: 8px;
+    }
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .m-container {
+      flex-direction: column-reverse !important;
+    }
+    .cus-leftmenu-nav {
+      position: relative;
+      width: 100%;
+    }
+    .cus-rightContent {
+      position: relative !important;
+      left: 0 !important;
+      width: 100% !important;
+    }
+  }
+  
+  @media only screen and (max-width: 280px) {
+    :root {
+      font-size: 6px;
+    }
+  }
+   */
